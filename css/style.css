@@ -9,7 +9,7 @@ body {
 
     color: #3e3d3d;
     margin: 0;
-    background-color: #e3e3e3;
+    background-color: red; /*#e3e3e3 */
 }
 
 .page__cell {
